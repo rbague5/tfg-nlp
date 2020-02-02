@@ -1,0 +1,2 @@
+class ResultsCustomModel:
+	pass
