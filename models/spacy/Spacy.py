@@ -55,7 +55,7 @@ class SpacyModel:
 
 		return sentences
 
-	def spacy(self, corpus):
+	def execute_core_algorithm(self, corpus):
 
 		list_not_clenaned_results_spacy = list()
 		list_of_indices = list()
@@ -174,23 +174,18 @@ def main_spacy():
 	# Orquestation
 	spacy_model = SpacyModel()
 
-	# VARIABLES OF ALGORITHMS RESULTS
-	list_dates_Spacy = list()
-
 	corpus_preprocessed = spacy_model.execute_pre_process(file)
 
 	# passem Spacy directament a tot el text
 	t1 = timeit.default_timer()
-	result_spacy = spacy_model.spacy(corpus_preprocessed)
+	result_spacy = spacy_model.execute_core_algorithm(corpus_preprocessed)
 	t2 = timeit.default_timer()
 
 	print(f"Total time for spaCy algorithm {t2-t1}")
 
 	if result_spacy is not None:
-		list_dates_Spacy += result_spacy
-	print()
-	for i in (list_dates_Spacy):
-		print(i)
+		for i in result_spacy:
+			print(i)
 
 
 if __name__ == '__main__':
