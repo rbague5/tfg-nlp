@@ -54,7 +54,7 @@ class RegexModel:
 
 def main_regex():
 
-	f = open("C:/Users/Usuario/PycharmProjects/tfg-nlp/documents/STS_175_2020.txt", encoding="utf8")
+	f = open("../../documents/STS_175_2020.txt", "r", encoding="utf8")
 	file = f.read()
 
 	# Orquestation
