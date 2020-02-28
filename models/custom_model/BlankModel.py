@@ -55,15 +55,12 @@ TRAIN_DATA = [('CAUSA ESPECIAL núm.: 20907/2017 Ponente: Excmo. Sr. D. Manuel M
     output_dir=("Optional output directory", "option", "o", Path),
     n_iter=("Number of training iterations", "option", "n", int),
 )
-def main(model=None, new_model_name="FECHA", output_dir=os.path.join(os.path.dirname(os.path.realpath(__file__)), "CustomModel"), n_iter=30):
+def main(model=None, new_model_name="FECHA", output_dir="./blank_model", n_iter=100):
     """Set up the pipeline and entity recognizer, and train the new entity."""
     random.seed(0)
-    if model is not None:
-        nlp = spacy.load(model)  # load existing spaCy model
-        print("Loaded model '%s'" % model)
-    else:
-        nlp = spacy.blank("es")  # create blank Language class
-        print("Created blank 'es' model")
+
+    nlp = spacy.blank("es")  # create blank Language class
+    print("Created blank 'es' model")
     # Add entity recognizer to model if it's not in the pipeline
     # nlp.create_pipe works for built-ins that are registered with spaCy
     if "ner" not in nlp.pipe_names:
