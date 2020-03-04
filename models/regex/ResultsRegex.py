@@ -1,2 +1,0 @@
-class ResultsRegex:
-	pass
