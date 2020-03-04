@@ -13,7 +13,7 @@ import json
 # new things
 from nltk import sent_tokenize
 from spacy.matcher import Matcher  # import Matcher class from spacy
-
+import sys
 
 
 class Labeler:
@@ -67,9 +67,9 @@ class Labeler:
 
         spacy_nlp = self._load_spacy()
         result = str()
-        #for i in corpus.en
 
         for sentence in corpus:
+            print(f"Sentence spacy: {sentence}")
             # passem Spacy per sentències
             t1 = timeit.default_timer()
             # Teninm indexos de casa entitat (inici, final)
@@ -94,12 +94,12 @@ class Labeler:
         return result
 
     def spacy_main(self, sentence, spacy_nlp):
-
         json_result = list()
         double_quotes_ent = ""
 
         list_not_clenaned_results_spacy = list()
         list_of_indices = list()
+        indexes = list()
 
         t1 = timeit.default_timer()
         document = spacy_nlp(sentence)
@@ -148,17 +148,19 @@ class Labeler:
             # cleaned_indexes = self._clean_punctuation(indexes=indexes, document=corpus)
             time5 = timeit.default_timer()
             pre_entities = []
-            for ent in document.ents:
-                pre_entities = [int(ent.start_char), int(ent.end_char), str(ent.label_)]
-                indexes.append(pre_entities)
+        print(f"sentence: {sentence}")
+        for ent in document.ents:
+            pre_entities = [int(ent.start_char), int(ent.end_char), str(ent.label_)]
+            print(pre_entities)
+            indexes.append(pre_entities)
 
             # print(json.dumps(indexes))
             # serveix per ficar les double quotes
             # print(f"pre_entities: {pre_entities}")
             # print(f"indexes: {indexes}")
             # print(f"json.dumps(indexes): {json.dumps(indexes)}")
-            clean_entities = self.check_index_entities(indexes)
-            return json.dumps(clean_entities)
+        clean_entities = self.check_index_entities(indexes)
+        return json.dumps(clean_entities)
 
     def check_index_entities(self, indexes):
 
@@ -182,9 +184,10 @@ class Labeler:
                 indices_fechas_set = set(indices_fechas)
                 elem_to_find_set = set(elem_to_find)
                 if indices_fechas_set & elem_to_find_set:
-                    print(f"Index: {index} IS IN {indices_fechas}")
+                    pass
+                    # print(f"Index: {index} IS IN {indices_fechas}")
                 else:
-                    print(f"Index: {index} NOT IN {indices_fechas}")
+                    # print(f"Index: {index} NOT IN {indices_fechas}")
                     result.append(index)
 
         print(f"Result: {result}")
@@ -267,17 +270,17 @@ class Labeler:
         # LOAD SPACY
         t1 = timeit.default_timer()
         spacy_nlp = es_core_news_sm.load()
-        spacy_nlp.max_length = 1500000
+        spacy_nlp.max_length = 3000000
         t2 = timeit.default_timer()
         print(f"Time to load spaCy: {t2 - t1}")
         return spacy_nlp
 
 
-def _check_and_build_json():
+def _check_and_build_json(corpus):
     # Check if json is in valid format
     try:
-        json_object = json.loads(corpus_json_formated)
-        with open('data.json', 'w', encoding='utf-8') as f:
+        json_object = json.loads(corpus)
+        with open('data_not_blank.json', 'w', encoding='utf-8') as f:
             json.dump(json_object, f, ensure_ascii=False)
         print("####### Json in VALID format #######")
         return json_object
@@ -294,17 +297,42 @@ if __name__ == "__main__":
     sentences = list()
     splitted_sentences = list()
 
-    f1 = open("../documents/22 pag.txt", "r", encoding="utf8")
-    f2 = open("../documents/31 pag.txt", "r", encoding="utf8")
-    f3 = open("../documents/84 pag.txt", "r", encoding="utf8")
-    f4 = open("../documents/133 pag.txt", "r", encoding="utf8")
-    f5 = open("../documents/493 pag.txt", "r", encoding="utf8")
-
-    document = f1.read() + f2.read() + f3.read() + f4.read() + f5.read()
-
     labeler = Labeler()
 
-    prepoceced_corpus = labeler.execute_pre_process(document)
+    f1 = open("../documents/22 pag_cleaned.txt", "r", encoding="utf8")
+    file = f1.read()
+    prepoceced_corpus = labeler.execute_pre_process(file)
+    f1.close()
+
+    f2 = open("../documents/31 pag_cleaned.txt", "r", encoding="utf8")
+    file = f2.read()
+    result = labeler.execute_pre_process(file)
+    prepoceced_corpus+result
+    f2.close()
+
+    f3 = open("../documents/84 pag_cleaned.txt", "r", encoding="utf8")
+    file = f3.read()
+    result = labeler.execute_pre_process(file)
+    prepoceced_corpus + result
+    f3.close()
+
+    f4 = open("../documents/133 pag_cleaned.txt", "r", encoding="utf8")
+    file = f4.read()
+    result = labeler.execute_pre_process(file)
+    prepoceced_corpus + result
+    f4.close()
+
+    f5 = open("../documents/493 pag_cleaned.txt", "r", encoding="utf8")
+    file = f5.read()
+    result = labeler.execute_pre_process(file)
+    prepoceced_corpus + result
+    f5.close()
+
+    # document = f1.read() + f2.read() + f3.read() + f4.read() + f5.read()
+
+
+
+    # prepoceced_corpus = labeler.execute_pre_process(document)
     # print(prepoceced_corpus)
     # print(len(prepoceced_corpus))
     # print(type(prepoceced_corpus))
@@ -312,6 +340,6 @@ if __name__ == "__main__":
     corpus_json_formated = labeler.execute_core_algorithm(prepoceced_corpus)
     # print(corpus_json_formated)
 
-    _check_and_build_json()
+    _check_and_build_json(corpus=corpus_json_formated)
 
     # print(corpus_json_formated)

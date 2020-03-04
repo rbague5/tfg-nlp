@@ -243,11 +243,11 @@ class Labeler:
         return spacy_nlp
 
 
-def _check_and_build_json():
+def _check_and_build_json(corpus):
     # Check if json is in valid format
     try:
-        json_object = json.loads(corpus_json_formated)
-        with open('data.json', 'w', encoding='utf-8') as f:
+        json_object = json.loads(corpus)
+        with open('data_blank.json', 'w', encoding='utf-8') as f:
             json.dump(json_object, f, ensure_ascii=False)
         print("####### Json in VALID format #######")
         return json_object
@@ -264,17 +264,22 @@ if __name__ == "__main__":
     sentences = list()
     splitted_sentences = list()
 
-    f = open("../documents/STS_175_2020.txt", "r", encoding="utf8")
-    file = f.read()
+    f1 = open("../documents/22 pag.txt", "r", encoding="utf8")
+    f2 = open("../documents/31 pag.txt", "r", encoding="utf8")
+    f3 = open("../documents/84 pag.txt", "r", encoding="utf8")
+    f4 = open("../documents/133 pag.txt", "r", encoding="utf8")
+    f5 = open("../documents/493 pag.txt", "r", encoding="utf8")
+
+    document = f1.read() + f2.read() + f3.read() + f4.read() + f5.read()
 
     labeler = Labeler()
 
-    prepoceced_corpus = labeler.execute_pre_process(file)
+    prepoceced_corpus = labeler.execute_pre_process(document)
 
     corpus_json_formated = labeler.execute_core_algorithm(prepoceced_corpus)
     # print(corpus_json_formated)
 
-    _check_and_build_json()
+    _check_and_build_json(corpus=corpus_json_formated)
 
 
     # print(corpus_json_formated)
