@@ -114,7 +114,7 @@ class Labeler:
 
         t1 = timeit.default_timer()
         matcher = Matcher(spacy_nlp.vocab)
-        matcher.add("FECHAS", None, *self._get_patterns())
+        matcher.add("FECHA", None, *self._get_patterns())
         matches = matcher(document)
         t2 = timeit.default_timer()
         # print(f"Time for matcher {t2 - t1}")
@@ -141,7 +141,7 @@ class Labeler:
 
             # # Afegeixo la entitat als indexos
             for i in indexes:
-                i.append("FECHAS")
+                i.append("FECHA")
                 json_result.append(json.dumps(i))
 
             time4 = timeit.default_timer()
