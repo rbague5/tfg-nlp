@@ -263,16 +263,29 @@ if __name__ == "__main__":
 
     sentences = list()
     splitted_sentences = list()
-
-    f1 = open("../documents/22 pag.txt", "r", encoding="utf8")
-    f2 = open("../documents/31 pag.txt", "r", encoding="utf8")
-    f3 = open("../documents/84 pag.txt", "r", encoding="utf8")
-    f4 = open("../documents/133 pag.txt", "r", encoding="utf8")
-    f5 = open("../documents/493 pag.txt", "r", encoding="utf8")
-
-    document = f1.read() + f2.read() + f3.read() + f4.read() + f5.read()
-
     labeler = Labeler()
+
+    f1 = open("../documents/22 pag_cleaned.txt", "r", encoding="utf8")
+    file1 = f1.read()
+    f1.close()
+
+    f2 = open("../documents/31 pag_cleaned.txt", "r", encoding="utf8")
+    file2 = f2.read()
+    f2.close()
+
+    f3 = open("../documents/84 pag_cleaned.txt", "r", encoding="utf8")
+    file3 = f3.read()
+    f3.close()
+
+    f4 = open("../documents/133 pag_cleaned.txt", "r", encoding="utf8")
+    file4 = f4.read()
+    f4.close()
+
+    f5 = open("../documents/493 pag_cleaned.txt", "r", encoding="utf8")
+    file5 = f5.read()
+    f5.close()
+
+    document = file1 + " " + file2 + " " + file3 + " " + file4 + " " + file5
 
     prepoceced_corpus = labeler.execute_pre_process(document)
 

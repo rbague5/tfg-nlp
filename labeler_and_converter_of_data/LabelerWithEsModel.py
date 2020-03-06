@@ -300,39 +300,30 @@ if __name__ == "__main__":
     labeler = Labeler()
 
     f1 = open("../documents/22 pag_cleaned.txt", "r", encoding="utf8")
-    file = f1.read()
-    prepoceced_corpus = labeler.execute_pre_process(file)
+    file1 = f1.read()
     f1.close()
 
     f2 = open("../documents/31 pag_cleaned.txt", "r", encoding="utf8")
-    file = f2.read()
-    result = labeler.execute_pre_process(file)
-    prepoceced_corpus+result
+    file2 = f2.read()
     f2.close()
 
     f3 = open("../documents/84 pag_cleaned.txt", "r", encoding="utf8")
-    file = f3.read()
-    result = labeler.execute_pre_process(file)
-    prepoceced_corpus + result
+    file3 = f3.read()
     f3.close()
 
     f4 = open("../documents/133 pag_cleaned.txt", "r", encoding="utf8")
-    file = f4.read()
-    result = labeler.execute_pre_process(file)
-    prepoceced_corpus + result
+    file4 = f4.read()
     f4.close()
 
     f5 = open("../documents/493 pag_cleaned.txt", "r", encoding="utf8")
-    file = f5.read()
-    result = labeler.execute_pre_process(file)
-    prepoceced_corpus + result
+    file5 = f5.read()
     f5.close()
 
-    # document = f1.read() + f2.read() + f3.read() + f4.read() + f5.read()
+    document = file1 + " " + file2 + " " + file3 + " " + file4 + " " + file5
 
 
 
-    # prepoceced_corpus = labeler.execute_pre_process(document)
+    prepoceced_corpus = labeler.execute_pre_process(document)
     # print(prepoceced_corpus)
     # print(len(prepoceced_corpus))
     # print(type(prepoceced_corpus))
