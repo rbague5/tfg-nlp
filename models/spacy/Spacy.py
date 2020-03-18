@@ -80,7 +80,7 @@ class SpacyModel:
 
 		# Si no hi ha cap element no cal fer res
 
-		if len(matches) is not 0:
+		if len(matches) != 0:
 			# print the matched results and extract out the results
 			for match_id, start, end in matches:
 				# Get the string representation
@@ -168,7 +168,7 @@ class SpacyModel:
 
 def main_spacy():
 
-	f = open("../../documents/STS_175_2020.txt", "r", encoding="utf8")
+	f = open("../../documents/12 pag software_cleaned.txt", "r", encoding="utf8")
 	file = f.read()
 
 	# Orquestation
