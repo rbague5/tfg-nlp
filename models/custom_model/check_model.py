@@ -26,7 +26,7 @@ def mainTest():
 
     """CASTELLANO"""
 
-    f = open("C:/Users/Usuario/PycharmProjects/tfg-nlp/documents/ej_2_es_cleaned.txt", encoding="utf8")
+    f = open("../../documents/12 pag software_cleaned.txt", encoding="utf8")
     corpus = f.read()
 
 
@@ -36,7 +36,7 @@ def mainTest():
     # LOAD SPACY
     t1 = timeit.default_timer()
     # es_core_news_sm
-    spacy_nlp = spacy.load('es_core_legal_sm')
+    spacy_nlp = spacy.load('blank_model')
     spacy_nlp.max_length = 2000000
     t2 = timeit.default_timer()
 
@@ -45,6 +45,7 @@ def mainTest():
     result_Spacy = ner.SPACY(corpus, spacy_nlp)
     for i in result_Spacy:
         print(i)
+
 
 if __name__ == '__main__':
 
