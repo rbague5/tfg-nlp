@@ -3,7 +3,7 @@ catalogue==1.0.0
 certifi==2019.11.28
 chardet==3.0.4
 cymem==2.0.3
-es-core-news-sm==2.2.5
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-2.2.5/es_core_news_sm-2.2.5.tar.gz
 idna==2.9
 murmurhash==1.0.2
 nltk==3.4.5
