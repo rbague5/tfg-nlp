@@ -1,3 +1,5 @@
+import re
+
 from nltk.tokenize.punkt import PunktParameters, PunktSentenceTokenizer
 
 
@@ -11,25 +13,24 @@ def execute_pre_process(corpus):
         if "\n" in sentence:
             sentence = sentence.replace("\n", " ")
         # eliminamos el título de las frases y su simbolo raro
-        if "     " in sentence:
-            sentence = sentence.replace("     ", " ")
-        if "    " in sentence:
-            sentence = sentence.replace("    ", " ")
-        if "   " in sentence:
-            sentence = sentence.replace("   ", " ")
-        if "  " in sentence:
-            sentence = sentence.replace("  ", " ")
+        sentence = clean_spaces(sentence)
         if "\x0c" in sentence:
             sentence = sentence.replace("\x0c", "")
         if "JURISPRUDENCIA" in sentence:
             sentence = sentence.replace("JURISPRUDENCIA", "")
         # S'ha de treure les cometes que sino trenquen el json
         if '"' in sentence:
-            sentence = sentence.replace('"', " ")
+            sentence = sentence.replace('"', "")
 
         splitted_sentences.append(sentence)
     splitted_sentences = (" ".join(splitted_sentences))
     return splitted_sentences
+
+
+def clean_spaces(sentence):
+
+    sentence = re.sub(' +', ' ', sentence)
+    return sentence
 
 
 def _nltk_tokenizer(document):
@@ -47,11 +48,13 @@ def _nltk_tokenizer(document):
 
 
 if __name__ == "__main__":
-    f = open("./ej_2_es.txt", "r", encoding="utf8")
+    f = open("./493 pag.txt", "r", encoding="utf8")
 
     document = f.read()
 
     splitted_text = execute_pre_process(document)
-    f = open("ej_2_es_cleaned.txt", "w", encoding="utf8")
+    result = clean_spaces(splitted_text)
+
+    f = open("493 pag_cleaned.txt", "w", encoding="utf8")
     f.write(str(splitted_text))
     f.close()
