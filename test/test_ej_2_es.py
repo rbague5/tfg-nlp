@@ -14,35 +14,35 @@ class TestEj2Es(unittest.TestCase):
                 '28 de enero de 2016-1052:1071',
                 '28 de enero de 2016-1851:1870',
                 '19.12.2015-2148:2158',
-                '16 de enero de 2016-2525:2544',
-                '6 de abril de 2016-4198:4216',
-                '28/01/16-4625:4633',
-                '21 de junio de 2016-7077:7096',
-                '21 de noviembre de 2016-7377:7400',
-                '9 de junio de 2016-7578:7596',
-                '23 de junio de 2016-7669:7688',
-                '14 de diciembre de 2016-7734:7757',
-                '4 de abril de 2017-7853:7871',
-                '25 de abril de 2017-7977:7996',
-                '28 de enero de 2016-8436:8455',
-                '19 de diciembre de 2015-8919:8942',
-                '6 de abril de 2016-10201:10219',
-                '5 de octubre-11456:11468',
-                '30 de marzo-17041:17052',
-                '23 de mayo-22597:22607',
-                '11 de abril-29021:29032',
-                '29 de abril-29049:29060',
-                '1 de abril-29077:29087',
-                '30 de marzo-29104:29115',
-                '11 de mayo-29132:29142',
-                '24 de mayo-29161:29171',
-                '5 de octubre-31141:31153',
-                '18 de noviembre-33493:33508',
-                '26 de octubre de 2010-33775:33796',
-                '26 de octubre de 2010-35400:35421',
-                '10 de septiembre-35993:36009',
-                '14 de noviembre-37432:37447',
-                '6 de abril de 2016-42854:42872']
+                '16 de enero de 2016-2523:2542',
+                '6 de abril de 2016-4196:4214',
+                '28/01/16-4623:4631',
+                '21 de junio de 2016-7075:7094',
+                '21 de noviembre de 2016-7375:7398',
+                '9 de junio de 2016-7576:7594',
+                '23 de junio de 2016-7667:7686',
+                '14 de diciembre de 2016-7732:7755',
+                '4 de abril de 2017-7851:7869',
+                '25 de abril de 2017-7975:7994',
+                '28 de enero de 2016-8434:8453',
+                '19 de diciembre de 2015-8917:8940',
+                '6 de abril de 2016-10197:10215',
+                '5 de octubre-11452:11464',
+                '30 de marzo-17035:17046',
+                '23 de mayo-22577:22587',
+                '11 de abril-28999:29010',
+                '29 de abril-29027:29038',
+                '1 de abril-29055:29065',
+                '30 de marzo-29082:29093',
+                '11 de mayo-29110:29120',
+                '24 de mayo-29139:29149',
+                '5 de octubre-31117:31129',
+                '18 de noviembre-33467:33482',
+                '26 de octubre de 2010-33748:33769',
+                '26 de octubre de 2010-35366:35387',
+                '10 de septiembre-35958:35974',
+                '14 de noviembre-37393:37408',
+                '6 de abril de 2016-42811:42829']
 
     @classmethod
     def setUpClass(cls):
@@ -80,7 +80,7 @@ class TestEj2Es(unittest.TestCase):
 
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
-        self.assertGreater(cm.F1, 0.8)
+        self.assertGreater(cm.F1, 0.9)
 
     def test_spacy(self):
         t1 = timeit.default_timer()
@@ -95,4 +95,4 @@ class TestEj2Es(unittest.TestCase):
 
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
-        self.assertGreater(cm.F1, 0.8)
+        self.assertGreater(cm.F1, 0.9)

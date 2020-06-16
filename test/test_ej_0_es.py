@@ -100,6 +100,7 @@ class TestEj0Es(unittest.TestCase):
         print(f"Time to load : {t2 - t1}")
 
         results = [f"{span.text}-{span.start_char}:{span.end_char}" for span in results]
+
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
         self.assertGreater(cm.F1, 0.8)
