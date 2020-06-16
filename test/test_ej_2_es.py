@@ -64,7 +64,7 @@ class TestEj2Es(unittest.TestCase):
 
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
-        self.assertGreater(cm.F1, 0.9)
+        self.assertGreater(cm.F1, 0.8)
 
     def test_blank_model(self):
         t1 = timeit.default_timer()
@@ -80,7 +80,7 @@ class TestEj2Es(unittest.TestCase):
 
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
-        self.assertGreater(cm.F1, 0.9)
+        self.assertGreater(cm.F1, 0.8)
 
     def test_spacy(self):
         t1 = timeit.default_timer()
@@ -95,4 +95,4 @@ class TestEj2Es(unittest.TestCase):
 
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
-        self.assertGreater(cm.F1, 0.9)
+        self.assertGreater(cm.F1, 0.8)
