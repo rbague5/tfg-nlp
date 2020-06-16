@@ -1,0 +1,1218 @@
+Roj: STS 2594/2016 - ECLI: ES:TS:2016:2594
+
+Id Cendoj: 28079110012016100362
+
+Órgano: Tribunal Supremo. Sala de lo Civil
+
+Sede: Madrid
+
+Sección: 1
+
+Fecha: 01/06/2016
+
+Nº de Recurso: 297/2014
+
+Nº de Resolución: 361/2016
+
+Procedimiento: CIVIL
+
+Ponente: RAFAEL SARAZA JIMENA
+
+Tipo de Resolución: Sentencia
+
+Resoluciones del caso: SAP O 3294/2013,
+
+STS 2594/2016
+
+SENTENCIA
+
+En la Villa de Madrid, a 1 de junio de 2016
+
+Esta sala ha visto el recurso extraordinario por infracción procesal y el 
+recurso de casación respecto de la
+sentencia núm. 387/2013 de 19 de diciembre, dictada en grado de apelación por 
+la Sección Primera de la
+Audiencia Provincial de Oviedo , como consecuencia de autos de juicio ordinario 
+núm. 23/2012 del Juzgado de
+lo Mercantil núm. 3 de Gijón, sobre propiedad intelectual. El recurso fue 
+interpuesto por Bittia Comunicación,
+S.L., representada por el procurador D. Ignacio Aguilar Fernández y asistida 
+por la letrada D.ª Rocío Tejedor
+López. Son partes recurridas Microsoft Corporation, Adobe Systems Incorporated 
+y Autodesk Incorporated,
+representadas por el procurador D. Jorge Deleito García y asistidas por la 
+letrada D.ª Maite Mascaró Miralles.
+
+Ha sido ponente el Excmo. Sr. D. Rafael Saraza Jimena
+
+ANTECEDENTES DE HECHO
+
+PRIMERO.- Tramitación en primera instancia.
+
+1.-  El procurador  D.  Aníbal Cuetos Cuetos,  en nombre y  representación de 
+Microsoft Corporation,  Adobe
+Systems  Incorporated  y  Autodesk  Incorporated,  interpuso  demanda  de  
+juicio  ordinario  contra  Bittia
+Comunicación, S.L., en la que solicitaba se dictara sentencia:
+
+«[...] formulando las declaraciones y condenas siguientes:
+
+»  1º.-  Se  declare  la  titularidad  de  los  derechos  de  explotación  de  
+las  compañías  Microsoft  Corporation,
+Autodesk Incorporated y Adobe Systems Incorporated sobre los programas de 
+ordenador instalados en las
+dependencias de la demandada y que constan en el Informe Pericial emitido por 
+el perito Sr.  Jesús Luis  con
+ocasión    del procedimiento de medidas cautelares seguido por este Juzgado con 
+el número 17/11.
+
+»  2º.-  En  virtud  de  la  acción  principal  ejercitada  se  declare  a  la  
+demandada  como  responsable  de  la
+reproducción no autorizada de los programas de ordenador propiedad de mis 
+mandantes, tal y como se
+describe en el Hecho Segundo de la presente demanda, declarándose que dichas 
+actividades de reproducción
+no autorizada constituyen una violación de los derechos de propiedad 
+intelectual que sobre tales programas
+de ordenador ostentan mis representadas, y se condene a la demandada a 
+indemnizar a mis representadas,
+en concepto de daños y perjuicios causados por las actividades de reproducción 
+no autorizadas en que ha
+incurrido la demandada, en la cantidad de sesenta y siete mil ciento sesenta y 
+seis euros con cuarenta y un
+céntimos (67.166,41 ?), más los intereses legales devengados desde el día 13 de 
+abril de 2011, fecha en que
+se realizó la diligencia de investigación por ser el momento en que se acreditó 
+la existencia de las actividades
+no autorizadas de reproducción.
+
+
+» 3º.- Subsidiariamente, y para el supuesto de desestimarse la acción 
+principal, y con carácter subsidiario, se
+declare a la demandada como responsable de la reproducción y distribución no 
+autorizada de los programas de
+ordenador propiedad de mis mandantes, tal y como se describe en el Hecho 
+Tercero de la presente demanda,
+declarándose que dichas actividades de reproducción y distribución no 
+autorizadas constituyen una violación
+de los derechos de propiedad intelectual que sobre tales programas de ordenador 
+ostentan mis representadas,
+y se condene a la demandada a indemnizar a mis representadas, en concepto de 
+daños y perjuicios causados
+por las actividades de reproducción no autorizadas en que ha incurrido la 
+demandada, en la cantidad de
+sesenta y siete mil ciento sesenta y seis euros con cuarenta y un céntimos 
+(67.166,41 ?), más los intereses
+legales devengados desde el día 13 de abril de 2011, fecha en que se realizó la 
+diligencia de investigación por
+ser el momento en que se acreditó la existencia de tales actividades no 
+autorizadas.
+
+»  4º.-  Se  ordene  a  la  demandada  la  cesación  de  las  actividades  
+ilícitas  de  reproducción  y,  en  su  caso,
+distribución no autorizadas antes descritas, comprendiendo dicho cese la 
+suspensión de las actividades de
+alquiler, puesta a disposición, reproducción no autorizadas, con la prohibición 
+de reanudarlas, procediendo a
+la destrucción de la copia de los programas de ordenador hallados en las 
+instalaciones de las demandadas.
+
+»5º.- Se condene, asimismo, a la demandada a indemnizar a mis representadas en 
+la suma de 9.000 euros en
+concepto de daños morales causados por su actividad ilícita.
+
+» 6º.- Se condene a la demandada a la publicación íntegra y a su costa de la 
+sentencia condenatoria en un
+periódico de ámbito nacional y en una revista especializada del sector de la 
+construcción.
+
+» 7º.- Se condene a la demandada al pago de las costas del presente 
+procedimiento».
+
+2.- La demanda fue presentada el 25 de enero de 2012 y repartida al Juzgado de 
+lo Mercantil núm. 3 de Gijón
+y fue registrada con el núm. 23/2012 . Una vez fue admitida a trámite, se 
+procedió al emplazamiento de la
+parte demandada.
+
+3.-  El  procurador  D.  Víctor  Viñuela  Conejo,  en  representación  de  
+Bittia  Comunicación,  S.L.,  contestó  a  la
+demanda mediante escrito en el que solicitaba:
+
+«[...] se sirva dictar sentencia mediante la que se desestime íntegramente la 
+demanda interpuesta, absolviendo
+a mi mandante de cuantas pretensiones se contienen en el suplico de la demanda, 
+y condenando a las actoras
+al pago de las costas procesales causadas».
+
+4.- Tras seguirse los trámites correspondientes, el Magistrado-juez del Juzgado 
+de lo Mercantil núm. 3 de
+Gijón, dictó sentencia de fecha 30 de noviembre de 2012 , con la siguiente 
+parte dispositiva:
+
+«Estimar sustancialmente la demanda interpuesta por las mercantiles Microsoft 
+Corporation, Adobe Systems
+Incorporated y Autodesk Incorporated, contra Bittia Comunicación, S.L. y, en 
+consecuencia, procede realizar
+los siguientes pronunciamientos:
+
+» a) Se declara la titularidad de los derechos de explotación de las compañías 
+actoras sobre los programas de
+ordenador instalados en las dependencias de la demandada y que constan en el 
+informe pericial emitido por
+el perito Don.  Jesús Luis  con ocasión de las medidas cautelares seguidas por 
+este Juzgado con el nº 71/11;
+
+» b) Se declara a la demandada como responsable de la reproducción y 
+distribución no autorizada de los
+programas de ordenador propiedad de las actoras, declarándose que dichas 
+actividades de reproducción y
+distribución no autorizada constituyen una violación de los derechos de 
+propiedad intelectual que sobre tales
+programas de ordenador ostentan mis representadas, en concepto de daños y 
+perjuicios causados por las
+actividades de reproducción no autorizadas en que ha incurrido la demandada, en 
+la cantidad de 67.166,41.-?,
+más los intereses legales devengados desde el día 13 de abril de 2011, fecha en 
+que se realizó la diligencia de
+investigación por ser el momento en que se acreditó la existencia de 
+actividades no autorizadas:
+
+»  c)  Se  ordena  a  la  demandada  la  cesación  de  las  actividades  
+ilícitas  de  reproducción  y  distribución
+no  autorizadas,  comprendiendo  dicho  cese  la  suspensión  de  las  
+actividades  de  puesta  a  disposición  y
+reproducción no autorizadas, con la prohibición de reanudarlas, procediendo a 
+la destrucción (desinstalación)
+de las copias de los programas de ordenador hallados en las instalaciones de 
+las demandadas;
+
+» Se condena en costas a la demandada de conformidad con lo dispuesto en 
+fundamento de derecho octavo
+de la presente resolución».
+
+SEGUNDO.- Tramitación en segunda instancia.
+
+1.- La sentencia de primera instancia fue recurrida en apelación por la 
+representación de Bittia Comunicación,
+
+S.L. La representación de Microsoft Corporation, Adobe Systems Incorporated y 
+Autodesk Incorporated, se
+opusieron al recurso interpuesto de contrario.
+
+
+2.- La resolución de este recurso correspondió a la Sección Primera de la 
+Audiencia Provincial de Oviedo, que
+lo tramitó con el número de rollo 120/2013 y tras seguir los correspondientes 
+trámites dictó sentencia núm.
+387/2013 en fecha 19 de diciembre , cuya parte dispositiva dispone:
+
+«FALLAMOS: Que estimando parcialmente el recurso de apelación formulado por 
+Bittia Comunicación, S.L.
+contra la sentencia de fecha 30 de noviembre de 2012 dictada por el Juzgado de 
+lo Mercantil nº 3 de Oviedo
+en el Juicio Ordinario 23/2012, debemos acordar y acordamos revocarla en el 
+único extremo de declarar la no
+imposición de las costas causadas en la primera instancia, manteniendo el resto 
+de pronunciamientos. No ha
+lugar a realizar expresa imposición de las costas causadas en esta alzada.
+
+» Dese el destino legal al depósito constituido para recurrir».
+
+TERCERO.- Interposición y tramitación del recurso extraordinario por infracción 
+procesal y recurso de casación.
+
+1.- El procurador D. Ramón Blanco González, en representación de Bittia 
+Comunicación, S.L., interpuso recurso
+extraordinario por infracción procesal y recurso de casación.
+
+El motivo del recurso extraordinario por infracción procesal fue:
+
+«Único.- Al amparo del artículo 469.1.2º de la LEC , por infracción del 
+artículo 222.4 de la LEC , e infracción
+de doctrina jurisprudencial del Tribunal Supremo ( STS 29/07/1993 , o STS nº 
+12/2000 de 22/01/2000 ), que
+conﬁrman que las resoluciones dictadas en procedimientos de medidas cautelares 
+carecen de eﬁcacia de
+cosa juzgada al fondo del asunto del posterior proceso principal».
+
+El motivo del recurso de casación fue:
+
+«Único.- Al amparo del artículo 477.2.3º de la LEC y según interpretación del 
+Acuerdo de 30/12/2011 de la Sala
+de lo Civil del Tribunal Supremo, por infracción del artículo 19.2 y 99.c) 
+párrafo segundo de la Ley de Propiedad
+Intelectual , existiendo: 1) Común opinión de la comunidad jurídica contraria a 
+la interpretación que hace la
+sentencia recurrida 387/13 , acreditada por la Sentencia ﬁrme de 03/07/2012 de 
+la Gran Sala del Tribunal de
+Justicia de la Unión Europea, y por la Resolución del Expediente S/0322/11 
+Microsfot Tech de 14/03/2013 de
+la Comisión Nacional de la Competencia; y 2) Una necesidad de crear 
+jurisprudencia acorde a la evolución de
+la realidad social actual sobre el concepto de "venta" o "transmisión" de un 
+programa informático, y sobre las
+segundas transmisiones de programas de ordenador».
+
+2.- Las actuaciones fueron remitidas por la Audiencia Provincial a esta Sala, y 
+las partes fueron emplazadas
+para comparecer ante ella. Una vez recibidas las actuaciones en esta Sala y 
+personadas ante la misma las
+partes por medio de los procuradores mencionados en el encabezamiento, se dictó 
+auto de fecha 11 de febrero
+de 2015, cuya parte dispositiva es como sigue:
+
+«1.- ADMITIR EL RECURSO DE CASACIÓN Y EL RECURSO EXTRAORDINARIO POR INFRACCIÓN 
+PROCESAL
+
+interpuesto por la representación procesal de "BITTIA COMUNICACIÓN, S.L." 
+contra la sentencia dictada, con
+fecha 19 de diciembre de 2013, por la Audiencia Provincial de Oviedo (sección 
+1ª), en el rollo de apelación nº
+120/2013 , dimanante de los autos de juicio ordinario nº 23/2012 del Juzgado de 
+lo Mercantil nº 3 de Gijón.
+
+» 2.- Y entréguese copia de los escritos de interposición de los recursos de 
+casación y recurso extraordinario por
+infracción procesal formalizados, con sus documentos adjuntos, a la partes 
+recurridas personadas ante esta
+Sala, para que formalicen su oposición en el plazo de VEINTE DÍAS, durante los 
+cuales estarán de maniﬁesto
+las actuaciones en la Secretaría ».
+
+3.- Se dio traslado a las partes recurridas para que formalizaran su oposición 
+al recurso, lo que hicieron
+mediante la presentación del correspondiente escrito.
+
+4.- Al no solicitarse por todas las partes la celebración de vista pública, se 
+señaló para votación y fallo el día
+11 de mayo de 2015, en que ha tenido lugar.
+
+FUNDAMENTOS DE DERECHO
+
+PRIMERO.- Antecedentes del caso.
+
+1.- La representación de Microsoft Corporation, Adobe Systems Incorporated y 
+Autodesk Incorporated (en
+lo sucesivo, las demandantes) presentó escrito de solicitud de realización de 
+informes e investigaciones
+y  posterior  adopción  de  medidas  cautelares  de  carácter  urgente  para  
+la  protección  de  los  derechos  de
+propiedad intelectual objeto de infracción contra la compañía Bittia 
+Comunicación, S.L. (en adelante, Bittia
+Comunicación).
+
+
+Solicitaba  la  adopción  de  medidas  cautelares  contra  Bittia  Comunicación 
+ por  hechos  que  podían  ser
+constitutivos  de  una  infracción  de  los  derechos  de  autor,  y  que  en  
+aplicación  de  los  arts.  141  del  Texto
+Refundido de la Ley de Propiedad Intelectual (en lo sucesivo, TRLPI) y 732.2 de 
+la Ley de Enjuiciamiento Civil,
+se acordara requerir los informes u ordenar las investigaciones que estimara 
+oportunas, con anterioridad a dar
+traslado del escrito de solicitud de medidas a la futura parte demandada, y 
+señalar día y hora para la práctica
+de la diligencia de investigación a efectuar en la sede de Bittia Comunicación.
+
+Para ello, alegaba en su solicitud, se debería acordar la constitución de la 
+comisión judicial, acompañada
+de  un  técnico  en  informática,  para  que  procediera  a  examinar  el  
+contenido  de  los  discos  duros  de  los
+distintos ordenadores y demás soportes informáticos, incluido el servidor, a ﬁn 
+de comprobar la utilización
+de reproducciones no autorizadas de todos aquellos programas de ordenador y sus 
+respectivas versiones
+cuya titularidad ostentaban las demandantes, así como analizar el servidor de 
+dicha sede con la ﬁnalidad de
+detectar los programas de ordenador que estuvieran siendo utilizados en las 
+demás sedes de dicha compañía
+en España.
+
+Alegaba asimismo que se debería dejar expresa constancia, al efecto de la 
+elaboración del dictamen pericial
+que se solicitaba, de los siguientes aspectos: nombre de los programas de 
+ordenador hallados y versión;
+compañía titular de los mismos; cantidad de reproducciones encontradas; número 
+de serie y, en su caso,
+entidad   o  persona  a  favor  de  la  cual  aparecen  licenciados;  precio  
+de  mercado  de  las  reproducciones
+encontradas.
+
+Y en base al resultado de los informes e investigaciones practicadas, 
+solicitaba la adopción de las siguientes
+medidas cautelares:
+
+1°) Medidas cautelares en el ejercicio de la pretensión indemnizatoria: 
+depósito o consignación judicial por
+parte de la futura demandada de la cantidad debida en concepto de remuneración 
+de la propiedad intelectual
+y que se correspondería con la cantidad que se ﬁjara en el informe pericial que 
+se emitiera al realizarse la
+diligencia de investigación, cantidad que debería ser incrementada en 9.000 ? 
+en concepto de daños morales.
+
+2°) Medidas cautelares en el ejercicio de la pretensión de cesación:
+
+-Suspensión de la actividad de reproducción de programas de ordenador.
+
+-Secuestro de los ejemplares producidos o utilizados.
+
+-Secuestro del material o medios empleados para la reproducción.
+
+2.- El Juzgado Mercantil dictó un auto el 1 de febrero de 2011 cuya parte 
+dispositiva acordaba:
+
+«1) Ordeno que la Comisión Judicial presidida por el Sr. Secretario Judicial de 
+este Juzgado, y asistido del
+perito que se dirá, con el auxilio de agentes del Cuerpo Nacional de Policía en 
+el caso que fuera necesario,
+acceda al domicilio de BITTIA COMUNICACIÓN, S.L., sito en la Avda. Mar 
+Cantábrico, n° 17, de Gijón, al objeto
+de: 1) comprobar la utilización de reproducciones no autorizadas de todos 
+aquellos programas de ordenador
+y sus respectivas versiones cuya titularidad ostentan los actores; 2) analizar 
+el servidor de dicha sede con la
+ﬁnalidad de detectar los programas de ordenador que están siendo utilizados en 
+las demás sedes que dicha
+mercantil tiene en España, dejando expresa constancia de los siguientes 
+aspectos: nombre de los programas
+de ordenador hallados y versión; compañía titular de los mismos; cantidad de 
+reproducciones encontradas; n
+
+° de serie y, en su caso, entidad o persona a favor de la cual aparecen 
+licenciados; precio de mercado de las
+reproducciones encontradas. En la práctica de esta diligencia se garantizará la 
+conﬁdencialidad y privacidad
+de los datos que contengan los ordenadores, y se adoptarán las medidas precisas 
+para evitar el borrado o
+destrucción accidental de datos que contengan los mismos.
+
+»2) Se designa al Sr. Don   Jesús Luis   , Ingeniero en Informática, como 
+perito judicial que formará parte
+de la Comisión Judicial a los efectos de practicar la presente diligencia de 
+investigación a practicar en las
+dependencias de la futura demandada, y de emitir el informe pericial interesado 
+por la actora en el otrosí digo
+de su solicitud de medidas cautelares previas.
+
+»3) La Comisión Judicial será asistida, si fuera necesario, por la Policía 
+Nacional, a cuyo ﬁn se librará el
+oportuno oﬁcio para cuidar que estuviere disponible la fuerza pública suﬁciente 
+con tal ﬁn, apercibiendo en el
+mismo sobre la previsible duración de la diligencia.
+
+»4) La diligencia se veriﬁcará el día y hora que se señale a tal efecto, una 
+vez se constituya ﬁanza de 6.000 ?
+en alguna de las formas admitidas por la LEC en el plazo de 5 días.
+
+»5) Una vez practicadas las anteriores diligencias, se citará a las partes para 
+la celebración de la vista prevista
+en el art. 733 LEC , con el ﬁn de resolver sobre las medidas cautelares previas 
+interesadas, con citación del
+demandado a tal efecto.
+
+
+»6) Una vez que se adopten, si procede, las medidas cautelares interesadas, el 
+demandante deberá presentar
+en el término de veinte días demanda ( art. 730.2 LEC ).
+
+»7) Notifíquese esta resolución exclusivamente a la parte actora en este 
+momento y a la demandada cuando
+se vaya a efectuar la diligencia».
+
+3.- Tras practicarse las actuaciones acordadas en el auto transcrito, y 
+tramitarse la oposición formulada
+por Bittia Comunicaciones, el Juzgado Mercantil dictó el 13 de diciembre de 
+2011 un auto en el que acordó
+la adopción de las siguientes medidas cautelares con relación al ejercicio de 
+la pretensión de cesación: a)
+secuestro del material empleado para la reproducción; b) secuestro de 
+ejemplares reproducidos o utilizados
+sin licencia; c) suspensión de la actividad de reproducción de programas de 
+ordenador.
+
+4.- Tras dictarse dicho auto, las demandantes interpusieron una demanda contra 
+Bittia Comunicación en
+la que solicitaron que se declarara su titularidad de los derechos de 
+explotación sobre los programas de
+ordenador instalados en las dependencias de la demandada, se declarara a la 
+demandada como responsable
+de la reproducción no autorizada de los programas de ordenador propiedad de las 
+demandantes y que dichas
+actividades de reproducción no autorizada constituyen una violación de los 
+derechos de propiedad intelectual
+que  sobre  tales  programas  de  ordenador  ostentan  las  demandantes,  y  se 
+ condenara  a  la  demandada  a
+indemnizarles, en concepto de daños y perjuicios causados por las actividades 
+de reproducción no autorizadas
+en que ha incurrido la demandada, en la cantidad de 67.166,41 ?, más los 
+intereses legales devengados desde
+el día 13 de abril de 2011, fecha en que se realizó la diligencia de 
+investigación por ser el momento en que se
+acreditó la existencia de las actividades no autorizadas de reproducción. 
+Subsidiariamente, y para el supuesto
+de desestimarse la acción principal, y con carácter subsidiario, solicitaron 
+que se declarara a la demandada
+como responsable de la reproducción y distribución no autorizada de los 
+programas de ordenador propiedad
+de las demandantes, y que dichas actividades de reproducción y distribución no 
+autorizadas constituyen una
+violación de los derechos de propiedad intelectual que sobre tales programas de 
+ordenador ostentan las
+demandantes, y se condenara a la demandada a indemnizarles, en concepto de 
+daños y perjuicios causados
+por las actividades de reproducción no autorizadas en que esta había incurrido, 
+en la cantidad de 67.166,41 ?,
+más los intereses legales devengados desde el día 13 de abril de 2011. 
+Solicitaban también que se ordenara a
+la demandada la cesación de las actividades ilícitas de reproducción y, en su 
+caso, distribución no autorizadas
+descritas,  comprendiendo  dicho  cese  la  suspensión  de  las  actividades  
+de  alquiler,  puesta  a  disposición,
+reproducción no autorizadas, con la prohibición de reanudarlas, procediendo a 
+la destrucción de la copia de los
+programas de ordenador hallados en las instalaciones de las demandadas, y a 
+indemnizar a las demandantes
+en la suma de 9.000 ? en concepto de daños morales causados por su actividad 
+ilícita, y a la publicación íntegra
+y a su costa de la sentencia condenatoria en un periodo de ámbito nacional y en 
+una revista especializada del
+sector de la construcción.
+
+5.- La demandada se opuso a la demanda. Los motivos de su oposición fueron, 
+resumidamente, que las
+demandantes distintas de Microsoft carecían de legitimación activa, pues en los 
+ordenadores de la demandada
+solo había instalados programas de Microsoft; que las acciones ejercitadas 
+estaban prescritas; que el auto que
+adoptó las medidas cautelares era nulo porque vulneraba los derechos 
+fundamentales y se había violado el
+deber de custodia; que los ocho equipos informáticos utilizados por los 
+empleados de la demandada disponían
+de licencia; que no debía responder por lo utilizado en los ordenadores de 
+titularidad ajena, así como que el
+concepto "reproducción" utilizado por las demandantes no debía incluir la 
+"instalación" de un programa ni el
+simple "uso" del mismo; y, ﬁnalmente, que no había existido distribución o 
+puesta a disposición de terceros de
+los programas informáticos, pues era aplicable la institución del agotamiento 
+del derecho.
+
+6.- El Juzgado Mercantil estimó plenamente la demanda, pues rechazó las 
+excepciones y motivos de oposición
+formulados por la demandada.
+
+En lo que aquí interesa, a la vista de las cuestiones planteadas en los 
+recursos extraordinarios, la sentencia
+de primera instancia negó que se hubiera vulnerado el derecho a la 
+inviolabilidad del domicilio de terceros,
+puesto que la autorización de entrada en domicilio para la práctica de las 
+diligencias necesarias para la
+investigación de la infracción de los derechos de propiedad intelectual, se 
+acordó con relación al domicilio
+de             la demandada, en el que se encontraban los equipos informáticos 
+de la demandada, sin perjuicio de que
+también constituyera el domicilio social de otras sociedades del mismo grupo 
+que compartían sede social.
+Y  negó que fuera aplicable a estas diligencias el concepto de "cadena de 
+custodia de pruebas", propio de la
+instrucción penal, puesto que tenían por ﬁnalidad facilitar la posesión del 
+material intervenido al perito para
+que pudiera emitir el informe objeto de la diligencia.
+
+El Juzgado Mercantil aﬁrmó que en tres de los equipos de la demandada se 
+constató que se había producido
+la reproducción ilícita de los programas de ordenador de cuyos derechos son 
+titulares las demandantes.
+Consideró que la demandada había obtenido el software en virtud del contrato de 
+arrendamiento de servicios
+
+
+suscrito  con  Isastur  Servicios,  S.L.  (en  lo  sucesivo,  Isastur)  y  a  
+su  vez  facilitó  los  citados  programas  de
+ordenador a otras sociedades del grupo, Bittia Media, S.L. (en adelante, Bittia 
+Media) e Isertia Comunicación
+Corporativa, S.L. (en lo sucesivo, Isertia) sin que concurrieran los requisitos 
+para que se considerara producido
+el agotamiento de los derechos de propiedad intelectual sobre los programas, 
+pues no solo no se había
+probado por la demandada la obtención de una licencia de uso sobre los 
+programas de ordenador, sino que
+además, de haberlo obtenido, el art. 99 TRLPI no autoriza la distribución a 
+terceros de los programas de
+ordenador por quien tiene una licencia de uso, si no es autorizada por su 
+titular.
+
+Por  tal  razón,  el  Juzgado  Mercantil  estimó  sustancialmente  la  demanda  
+y  declaró  la  titularidad  de  los
+derechos de explotación de las compañías demandantes sobre los programas de 
+ordenador instalados en las
+dependencias de la demandada y que constaban en el informe pericial emitido con 
+ocasión de las medidas
+cautelares; declaró a la demandada como responsable de la reproducción y 
+distribución no autorizada de
+los  programas  de  ordenador  propiedad  de  las  demandantes  y  que  dichas  
+actividades  de  reproducción  y
+distribución  no  autorizada  constituían  una  violación  de  los  derechos  
+de  propiedad  intelectual  que  sobre
+tales programas de ordenador ostentaban las demandantes, le condenó a 
+indemnizar a las demandantes en
+concepto de daños y perjuicios causados por las actividades de reproducción no 
+autorizadas en la cantidad
+de 67.166,41 ?, más los intereses legales; ordenó a la demandada la cesación de 
+las actividades ilícitas
+de reproducción y distribución no autorizadas, comprendiendo dicho cese la 
+suspensión de las actividades
+de puesta a disposición y reproducción no autorizadas, con la prohibición de 
+reanudarlas, y procediera a la
+destrucción (desinstalación) de las copias de los programas de ordenador 
+hallados en sus instalaciones, y le
+condenó al pago de las costas.
+
+7.- Bittia Comunicación apeló la sentencia dictada en primera instancia, y la 
+Audiencia Provincial desestimó
+el recurso.
+
+En lo que aquí interesa, la Audiencia Provincial abordó la impugnación que se 
+basaba en la vulneración de
+derechos fundamentales en las medidas cautelares, en lo relativo a la obtención 
+anticipada de pruebas. Sobre
+esta cuestión, la sentencia de apelación declara:
+
+«Por lo que se reﬁere a la reiterada invocación de los vicios que 
+pretendidamente aquejan al procedimiento
+seguido para la obtención del material probatorio en que se fundamenta la 
+Sentencia apelada, haremos de
+comenzar recordando el camino procesal seguido hasta llegar a la Sentencia 
+ahora apelada. Así primeramente
+el Juzgado de lo Mercantil dictó Auto de fecha 1 febrero 2011 ordenando que la 
+Comisión Judicial acompañada
+por el Sr. Secretario Judicial y asistido del perito Don Jesús Luis accediera 
+al domicilio de "Bittia Comunicación,
+S.L."  sito  en  la  Avenida  del  Mar  Cantábrico,  nº  17,  de  Gijón,  al  
+objeto  de  comprobar  la  utilización  de
+reproducciones no autorizadas de todos aquellos programas de ordenador y sus 
+respectivas versiones cuya
+titularidad ostentan los actores, así como analizar el servidor de dicha sede 
+con la ﬁnalidad de detectar los
+programas de ordenador que están siendo utilizados en las demás sedes de esa 
+sociedad en España, dejando
+expresa constancia del nombre de los programas de ordenador hallados y versión, 
+compañía titular de los
+mismos; cantidad de reproducciones encontradas; nº de serie y, en su caso, 
+entidad o persona a favor de
+la cual aparecen licenciados, y precio de mercado de las reproducciones 
+encontradas, acordando asimismo
+que en la práctica de tal diligencia se habría de garantizar la conﬁdencialidad 
+y privacidad de los datos que
+contuvieran los ordenadores. Asimismo el Juzgado de lo Mercantil dictó 
+seguidamente Auto de 13 diciembre
+2011  acordando  adoptar  como  medidas  cautelares  en  relación  con  la  
+demandada  "Bittia  Comunicación,
+S.L." las de secuestro del material empleado para la reproducción, secuestro de 
+ejemplares reproducidos o
+utilizados sin licencia y suspensión de la actividad de reproducción de 
+programas de ordenador.
+
+»Recurrida  en  apelación  por  "Bittia  Comunicación,  S.L."  esta  última  
+resolución,  esta  Sala  dictó  Auto  22
+noviembre 2012 en el que tuvo ocasión de examinar la esgrimida vulneración de 
+derechos fundamentales
+por violación del domicilio causada con ocasión de la práctica de la diligencia 
+de entrada acordada por el
+Juzgado de lo Mercantil, pues en tal sentido consta en el informe pericial 
+elaborado por el Sr.  Jesús Luis  que
+"a las 12,00 horas aproximadamente, con la mitad de los equipos de usuario 
+revisados, los representantes
+de la demandada advierten a los miembros de la comisión que los equipos allí 
+presentes no son todos de
+la empresa demandada, llegando a insinuar que la empresa no tiene no tiene 
+equipos informáticos. Se les
+comenta que en su momento deberán aportar las pruebas que estimen oportunas y 
+que será el Juez el que
+estime dicha alegación, continuando los peritos con la inspección". En este 
+sentido se razonó por esta Sala
+que "se trató de una mera manifestación de alguna persona de la entidad no 
+acreditada en aquel momento,
+debiendo tenerse en cuenta que se trataba de "comprobar la utilización de 
+reproducciones no autorizadas...",
+es decir material usado sin la correspondiente autorización de sus titulares. 
+Desde otro punto de vista ante la
+falta de datos acreditativos, debe presumirse que los ordenadores que se 
+encuentran en funcionamiento en
+la sede de la entidad en donde estaba teniendo lugar la diligencia son de su 
+titularidad. En deﬁnitiva, ello no
+supone vulneración de la inviolabilidad del domicilio, ya que existía la 
+resolución que así lo acordaba, ni posible
+
+
+aplicación al supuesto de la teoría de los "frutos del árbol envenenado" (que 
+aun cuando procede del Derecho
+Penal, cierto es que permite su aplicación al civil a través del art. 287 de la 
+Ley de Enjuiciamiento Civil ".
+
+»Asimismo se examinó la alegación vertida acerca de una pretendida vulneración 
+de lo dispuesto en el art.
+296-1 LEC y del deber de custodia por parte del Secretario Judicial de los 
+materiales obtenidos en dicha
+diligencia, razonando esta Sala a tal propósito que "al mismo tiempo se 
+designaba un perito judicial quien
+debía practicar el correspondiente informe sobre los materiales que allí 
+pudieran encontrarse. Se señaló la
+vista con fecha 8 de noviembre, fecha en la que tuvo lugar (folio 294 a 296) la 
+práctica de la prueba, entre la
+que se encontraba la pericial reseñada por parte de D.  Jesús Luis  una vez 
+redactado el informe. Pues bien,
+en aquel momento ninguna manifestación realizó la representación de BITTIA 
+COMUNICACIÓN acerca de que
+se hubiera infringido el deber de custodia, y es en el recurso cuando parece 
+descubrir que dichos materiales
+fueron custodiados por el perito, como lógica consecuencia de su designación 
+para la elaboración del informe
+pericial imprescindible. Ni que decir tiene que supone introducir una cuestión 
+nueva en la que no procede entrar,
+máxime cuando no se acreditó la infracción alegada".
+
+»Llegados a este punto es claro que los motivos alegados en el presente recurso 
+de apelación por "Bittia
+Comunicación, S.L." en los que se vuelve a insistir en la vulneración del 
+derecho a la inviolabilidad del domicilio
+de la sociedad demandada con ocasión de la diligencia de ingestación practicada 
+así como la infracción del
+art. 296-1 LEC al haber quedado las pruebas obtenidas en aquella ocasión bajo 
+la custodia del perito, y no así
+del Secretario judicial, no pueden ser nuevamente examinados por esta Sala toda 
+vez que ya fueron objeto de
+anterior enjuiciamiento, constituyendo la decisión dictada al respecto res 
+iudicata ».
+
+La sentencia de la Audiencia Provincial también daba respuesta a la impugnación 
+basada en el agotamiento
+de los derechos de propiedad intelectual de las demandantes. En primer lugar, 
+conﬁrmaba las conclusiones
+de la sentencia del Juzgado Mercantil sobre la existencia del contrato de 
+arrendamiento de servicios, que
+incluía la cesión del software, entre Isastur y Bittia Comunicación, por lo que 
+esta era cesionaria en calidad de
+arrendataria de las licencias de uso originariamente adquiridas por Isastur, y 
+conﬁrmaba también lo declarado
+por            el Juzgado Mercantil sobre la puesta a disposición de los 
+programas por parte de Bittia Comunicación en
+favor de Bittia Media e Isertia, y aﬁrmaba que la licenciataria de los 
+programas era Isastur. Y declaraba:
+
+«No resulta obstáculo a lo anterior la pretendida aplicación de la doctrina del 
+agotamiento que ya estaba
+presente en el art. 9-2 de la Directiva 92/100/CEE , en relación con el derecho 
+exclusivo de autorizar o prohibir
+el alquiler o préstamo de originales y obras protegidas por el derecho de 
+autor, cuando establecía que "el
+derecho de distribución ... no se agotará en la Comunidad salvo en el caso de 
+primera venta en la Comunidad
+de dicho objeto por parte del titular o con su consentimiento", y que 
+posteriormente fue recogido para el ámbito
+especíﬁco que nos ocupa en el art. 4.2 de la Directiva 2001/29/CEE del 
+Parlamento Europeo y del Consejo,
+de 22 de mayo de 2001 , relativa a la armonización de determinados aspectos de 
+los derechos de autor y
+derechos aﬁnes a los derechos de autor en la sociedad de la información. La 
+doctrina del agotamiento ha sido
+incorporada a la Ley de Propiedad de Intelectual por la Ley 23/2006, de 7 de 
+julio, al disponer ahora el art. 19-2
+que "Cuando la distribución se efectúe mediante venta u otro título de 
+transmisión de la propiedad, en el ámbito
+de la Unión Europea, por el propio titular del derecho o con su consentimiento, 
+este derecho se agotará con la
+primera, si bien sólo para las ventas y transmisiones de propiedad sucesivas 
+que se realicen en dicho ámbito
+territorial", y en este sentido el Juez de lo Mercantil rechaza con acierto la 
+posibilidad de entender aplicable
+el agotamiento al caso que nos ocupa toda vez que no cabe confundir los efectos 
+limitados que se derivan
+de la obtención de la licencia de uso, tal y como aparecen descrito en el art. 
+99 c) párrafo segundo, con los
+de la "venta u otro título de transmisión de la propiedad" en cuanto que 
+presupuesto normativo exigido para
+el agotamiento de los derechos de autor, consideraciones todas ellas que 
+suponen el rechazo del recurso de
+apelación en los extremos examinados».
+
+La Audiencia Provincial estimó el recurso de apelación exclusivamente en lo 
+relativo al pronunciamiento de
+condena en costas, que revocó por considerar que no había existido una 
+estimación de la demanda que fuera
+equiparable al vencimiento total, por lo que no hizo expresa imposición de las 
+costas ni en primera ni en
+segunda instancia.
+
+8.- Bittia Comunicación ha interpuesto recurso extraordinario por infracción 
+procesal y recurso de casación,
+basados cada uno de ellos en un solo motivo, que han sido admitidos a trámite.
+
+Recurso extraordinario por infracción procesal.
+SEGUNDO.- Formulación del motivo.
+
+1. - El único motivo del recurso extraordinario por infracción procesal se 
+formula bajo el siguiente epígrafe:
+
+«Al amparo del artículo 469.1.2º de la LEC , por infracción del artículo 222.4 
+de la LEC , e infracción de doctrina
+jurisprudencial del Tribunal Supremo ( STS 29/07/1993 , o STS nº 12/2000 de 
+22/01/2000 ), que conﬁrman
+
+
+que las resoluciones dictadas en procedimientos de medidas cautelares carecen 
+de eﬁcacia de cosa juzgada
+al fondo del asunto del posterior proceso principal».
+
+2.- La infracción denunciada se habría cometido al atribuir la sentencia 
+efectos de cosa juzgada positiva al
+auto de la propia Audiencia Provincial que resolvió las medidas cautelares, 
+respecto del fondo del asunto del
+posterior proceso principal. Con ello, aﬁrma la recurrente, la sentencia 
+recurrida habría vulnerado la doctrina
+jurisprudencial que aﬁrma que las resoluciones dictadas en unas medidas 
+cautelares carecen de eﬁcacia de
+cosa juzgada respecto del fondo del asunto.
+
+TERCERO.- Decisión de la Sala. Inexistencia de contradicción del efecto de cosa 
+juzgada positiva.
+
+1.- En la sentencia 12/2000, de 22 de enero, esta sala declaró:
+
+«Las medidas cautelares en cualquier tipo de procedimiento tienen como ﬁnalidad 
+proteger el derecho de
+los interesados con carácter preventivo para evitar el daño que pudiera 
+producirse durante la tramitación del
+proceso; de ahí que las resoluciones dictadas en el incidente para su 
+tramitación carezcan de eﬁcacia de cosa
+juzgada respecto al fondo del asunto y que las declaraciones que en ellas se 
+hagan no prejuzgan el fondo de
+la cuestión debatida».
+
+En la sentencia 267/2016, de 22 de abril , declaramos:
+
+«Conforme a la regulación de las medidas cautelares que se contiene en los 
+arts. 721 y siguientes de la
+Ley de Enjuiciamiento Civil , y en concreto, en preceptos como los arts. 726.2 
+y 728.2, la resolución que se
+dicte acordando o denegando la adopción de medidas cautelares tiene un carácter 
+temporal, provisional,
+condicionado y susceptible de modiﬁcación y alzamiento, conforme a lo previsto 
+en dicha ley , y contiene un
+juicio provisional e indiciario sobre el fundamento de la pretensión contenida 
+en la demanda, que no prejuzga
+ni condiciona la sentencia que en su día pueda dictarse sobre el fondo del 
+litigio.
+
+»Por tanto, incluso en los casos en los que las pruebas practicadas sean las 
+mismas en el proceso principal y en
+la pieza de medidas cautelares [...], la resolución que decida sobre la 
+adopción de tales medidas cautelares no
+prejuzga ni predetermina el contenido que haya de tener la sentencia. El 
+tribunal, a la hora de dictar la sentencia
+deﬁnitiva en el proceso principal, puede realizar un juicio más profundo, más 
+reﬂexivo, en el que valore con más
+detenimiento las alegaciones realizadas y las pruebas practicadas, tenga en 
+cuenta las alegaciones ﬁnales
+realizadas por los abogados de las partes en el juicio, y de este modo 
+sustituya el juicio provisional e indiciario
+contenido en el auto que resuelve la solicitud de medidas cautelares por un 
+enjuiciamiento deﬁnitivo de la
+cuestión litigiosa. Y ello es posible tanto en primera como en segunda 
+instancia, en la que la Audiencia debe
+valorar, además, las alegaciones efectuadas en el recurso de apelación 
+interpuesto contra la sentencia dictada
+en el proceso principal».
+
+2.- En la resolución que decide sobre la adopción de medidas cautelares se 
+enjuicia la apariencia de buen
+derecho.  Por  tanto,  no  es  admisible  que  la  sentencia  que  resuelve  el 
+ litigio  principal  adopte  su  decisión
+partiendo del enjuiciamiento de la apariencia del derecho del demandante hecho 
+en el auto sobre medidas
+cautelares, considerándolo un antecedente lógico del que debe partirse para 
+decidir el proceso principal.
+
+3.- La sentencia de la Audiencia Provincial no ha actuado de ese modo, puesto 
+que ha enjuiciado el derecho
+de las demandantes valorando las alegaciones y las pruebas practicadas.
+
+La cuestión de si en la sentencia del proceso que resuelve el litigio principal 
+puede revisarse la regularidad
+procesal de las medidas cautelares, en concreto de la corrección de las pruebas 
+obtenidas en las diligencias
+practicadas en la pieza de medidas cautelares, es una cuestión ajena al efecto 
+de cosa juzgada positiva que
+pudiera tener el auto de medidas cautelares. La negativa de la Audiencia a 
+volver a enjuiciar la regularidad
+de tales pruebas podría tener alguna trascendencia en lo relativo a la cosa 
+juzgada negativa, esto es, a la
+posibilidad de volver a enjuiciar lo ya resuelto en una resolución anterior, 
+pero no a la cosa juzgada positiva,
+que es la que se denuncia como infringida en el recurso.
+
+Además, dicha negativa a enjuiciar en realidad no es tal, puesto que la 
+sentencia reproduce, con la evidente
+intención de asumirlas, las consideraciones que hizo en la anterior resolución, 
+con lo que se produce una
+motivación por remisión, y la invocación a la res iudicata es un argumento 
+añadido.
+
+Lo  expuesto  lleva  a  que  el  motivo,  y  con  él  el  recurso  
+extraordinario  por  infracción  procesal,  deba  ser
+desestimado.
+
+Recurso de casación.
+
+CUARTO.- Formulación del recurso de casación.
+
+1.- El único motivo del recurso de casación se formula bajo este epígrafe:
+
+
+«Al amparo del artículo 477.2.3º de la LEC y según interpretación del Acuerdo 
+de 30/12/2011 de la Sala de
+lo Civil del Tribunal Supremo, por infracción del artículo 19.2 y 99.c) párrafo 
+segundo de la Ley de Propiedad
+Intelectual , existiendo: 1) Común opinión de la comunidad jurídica contraria a 
+la interpretación que hace la
+sentencia recurrida 387/13 , acreditada por la Sentencia ﬁrme de 03/07/2012 de 
+la Gran Sala del Tribunal de
+Justicia de la Unión Europea, y por la Resolución del Expediente S/0322/11 
+Microsoft Tech de 14/03/2013 de
+la Comisión Nacional de la Competencia; y 2) Una necesidad de crear 
+jurisprudencia acorde a la evolución de
+la realidad social actual sobre el concepto de "venta" o "transmisión" de un 
+programa informático, y sobre las
+segundas transmisiones de programas de ordenador».
+
+2.- Las razones que sustentan el motivo consisten, resumidamente, en que 
+conforme a la doctrina establecida
+en la sentencia del Tribunal de Justicia de la Unión Europea (en lo sucesivo, 
+STJUE) de 3 de julio de 2012,
+dictada en el asunto C 128/11, caso UsedSoft GmbH y Oracle International Corp . 
+, la obtención de una licencia
+de uso de un programa informático equivale a su primera venta o transmisión, 
+pues implica la transferencia
+del derecho de propiedad de la copia del programa de ordenador de que se trata, 
+y supone el agotamiento de
+los derechos de propiedad intelectual del titular del programa de ordenador.
+
+Por tanto, la adquisición por Isastur de los derechos de uso de los programas 
+de ordenador objeto de la
+demanda equivale a la adquisición de su propiedad, lo que provoca el 
+agotamiento de dicho derecho de
+distribución, de forma que Isastur quedó legítimamente facultada para ceder y 
+transmitir nuevamente dichos
+programas a Bittia Comunicación, y esta quedó facultada para descargar en su 
+ordenador y reproducir dicho
+programa y para volver a transmitir a las demás sociedades de su grupo 
+empresarial los mismos programas
+informáticos, con lo que la vulneración no se habría producido.
+
+QUINTO.- Decisión de la Sala. Agotamiento de los derechos de explotación del 
+titular de los programas de
+ordenador
+
+1.- El art. 99 TRLPI , dentro del título dedicado a los programas de ordenador, 
+prevé:
+
+«Contenido de los derechos de explotación.
+
+»Sin perjuicio de lo dispuesto en el artículo 100 de esta Ley los derechos 
+exclusivos de la explotación de un
+programa de ordenador por parte de quien sea su titular con arreglo al artículo 
+97, incluirán el derecho de
+realizar o de autorizar:
+
+»a) La reproducción total o parcial, incluso para uso personal, de un programa 
+de ordenador, por cualquier
+medio y bajo cualquier forma, ya fuere permanente o transitoria. Cuando la 
+carga, presentación, ejecución,
+transmisión o almacenamiento de un programa necesiten tal reproducción deberá 
+disponerse de autorización
+para     ello, que otorgará el titular del derecho.
+
+»b) La traducción, adaptación, arreglo o cualquier otra transformación de un 
+programa de ordenador y la
+reproducción de los resultados de tales actos, sin perjuicio de los derechos de 
+la persona que transforme el
+programa de ordenador.
+
+»c) Cualquier forma de distribución pública incluido el alquiler del programa 
+de ordenador original o de sus
+copias.
+
+»A tales efectos, cuando se produzca cesión del derecho de uso de un programa 
+de ordenador, se entenderá,
+salvo  prueba  en  contrario,  que  dicha  cesión  tiene  carácter  no  
+exclusivo  e  intransferible,  presumiéndose,
+asimismo, que lo es para satisfacer únicamente las necesidades del usuario. La 
+primera venta en la Unión
+Europea de una copia de un programa por el titular de los derechos o con su 
+consentimiento, agotará el derecho
+de distribución de dicha copia, salvo el derecho de controlar el subsiguiente 
+alquiler del programa o de una
+copia del mismo».
+
+Esta norma es transcripción del art. 4 de la Directiva 2009/24/CE, del 
+Parlamento Europeo y del Consejo, de
+23 de abril de 2009 , sobre la protección jurídica de programas de ordenador.
+
+2.  -  La  tesis  sostenida  tanto  por  el  Juzgado  Mercantil  como  por  la  
+Audiencia  Provincial,  respecto  del
+agotamiento del derecho de distribución de los programas de ordenador, supone 
+la utilización de un criterio
+estricto en la interpretación de la expresión «primera venta» que utiliza el 
+último párrafo del art. 99 TRLPI . La
+Audiencia, asumiendo el razonamiento empleado por el Juzgado, aﬁrma en su 
+sentencia:
+
+«no cabe confundir los efectos limitados que se derivan de la obtención de la 
+licencia de uso, tal y como
+aparecen descrito en el art. 99 c) párrafo segundo, con los de la "venta u otro 
+título de transmisión de la
+propiedad" en cuanto que presupuesto normativo exigido para el agotamiento de 
+los derechos de autor».
+
+
+En consecuencia, dado que lo otorgado por las demandantes a Isastur fue una 
+licencia de uso, no se habría
+producido el agotamiento de los derechos de las titulares de los programas de 
+ordenador pues faltaba el
+requisito de la «venta u otro título de transmisión de la propiedad».
+
+3.- El Tribunal de Justicia de la Unión Europea (en lo sucesivo, TJUE) ha 
+tratado esta cuestión en la sentencia
+de 3 de julio de 2012, dictada en el asunto C 128/11, caso UsedSoft GmbH y 
+Oracle International Corp .
+
+El TJUE aﬁrma en esta sentencia que, a efectos de determinar si se ha producido 
+el agotamiento del derecho
+de distribución del titular de los derechos de autor, debe comprobarse en 
+primer lugar si la relación contractual
+entre el titular y su cliente, en cuyo marco se ha descargado una copia del 
+programa de ordenador de que
+se trata puede caliﬁcarse de «primera venta [...] de una copia de un programa», 
+en el sentido del artículo 4,
+apartado 2, de la Directiva 2009/24 .
+
+Para el TJUE, la ﬁnalidad de la puesta a disposición por parte del titular del 
+programa de una copia de su
+programa de ordenador y la celebración del correspondiente contrato de licencia 
+de uso, es que sus clientes
+puedan utilizar dicha copia de manera permanente a cambio del pago de un precio 
+que permita al titular de
+los derechos de autor obtener una remuneración correspondiente al valor 
+económico de la copia de la obra
+de la que es propietario.
+
+La  puesta  a  disposición  del  cliente  de  una  copia  del  programa  de  
+ordenador  y  la  celebración  del
+correspondiente contrato de licencia de uso forman un todo indivisible, pues la 
+puesta a disposición de una
+copia del programa de ordenador carece de utilidad si dicha copia no puede ser 
+utilizada por quien disponga
+de ella. Ambas operaciones deben examinarse en su conjunto a efectos de su 
+caliﬁcación jurídica.
+
+El  TJUE  considera  que  la  puesta  a  disposición  del  cliente  de  una  
+copia  de  un  programa  de  ordenador  y
+la  celebración  del  correspondiente  contrato  de  licencia  de  uso,  
+examinadas  en  su  conjunto,  implican  la
+transferencia del derecho de propiedad de la copia del programa de ordenador de 
+que se trata, pues el cliente
+obtiene el derecho de utilizar dicha copia por una duración ilimitada a cambio 
+del pago de un precio. Es
+indiferente que la copia del programa de ordenador haya sido puesta a 
+disposición del cliente por el titular de
+los derechos de que se trate mediante la descarga de la página web de éste o 
+mediante un soporte material,
+como puede ser un CD-ROM o un DVD.
+
+Esta transferencia del derecho de propiedad de la copia del programa debe 
+considerarse que constituye una
+
+«primera venta [...] de una copia de un programa», en el sentido del artículo 
+4, apartado 2, de la Directiva
+2009/24 , y por tanto, produce el agotamiento de los derechos de explotación 
+del titular del programa en los
+términos previstos en dicho precepto, transpuesto en el segundo párrafo del 
+art. 99.c TRLPI .
+
+El  TJUE,  haciendo  suyas  en  este  punto  las  conclusiones  del  abogado  
+general,  descarta  la  interpretación
+restrictiva que se venía sosteniendo por parte de la doctrina, y aﬁrma que si 
+no se interpretara ampliamente
+el término «venta», a efectos del artículo 4, apartado 2, de la Directiva 
+2009/24 , en el sentido de que engloba
+todas las modalidades de comercialización de un producto que se caractericen 
+por la entrega de un derecho
+de uso de una copia de un programa de ordenador por tiempo indeﬁnido a cambio 
+del pago de un precio que
+permita al titular de los derechos de autor obtener una remuneración 
+correspondiente al valor económico de la
+copia de la obra de la que es propietario, se pondría en peligro el efecto útil 
+de esta disposición, pues bastaría
+que los suministradores caliﬁcasen el contrato de «licencia» en lugar de 
+«venta» para soslayar la regla del
+agotamiento, privando a ésta de toda eﬁcacia.
+
+Este agotamiento del derecho de distribución de las copias de programas de 
+ordenador no se limita a las
+copias de programas de ordenador que se encuentren en un soporte material, como 
+puede ser un CD-ROM o
+un DVD. El art. 4.2 de la Directiva, al referirse sin más precisiones a la 
+«venta [...] de una copia de un programa»,
+no hace ninguna distinción en función de la forma material o inmaterial de la 
+copia de que se trate, como es el
+caso de las descargadas de Internet, por lo que el agotamiento abarca la puesta 
+a disposición de las copias,
+tanto materiales como inmateriales.
+
+El agotamiento se produce incluso en los casos en los que el contrato de 
+licencia de uso contenga una
+estipulación que impida la transmisión del derecho del licenciatario. El TJUE, 
+en el párrafo 77 de su sentencia,
+ha  declarado  que  «en  virtud  de  la  citada  disposición  [art.  4.2  de  
+la  Directiva]  y  pese  a  la  existencia  de
+disposiciones contractuales que prohíban la cesión posterior, el titular de los 
+derechos de que se trate no podrá
+ya oponerse a la reventa de esa copia».
+
+La consecuencia de lo expuesto es que el argumento de la sentencia recurrida 
+consistente en que no se había
+producido el agotamiento porque no había existido una venta sino solo la 
+concesión de una licencia de uso
+a Isastur, no es correcto. La concesión de una licencia de uso por tiempo 
+indeﬁnido, junto con la puesta a
+disposición del programa en soporte material (CD- ROM o DVD) o inmaterial (a 
+través de Internet), supone
+
+
+una transferencia del derecho de propiedad de la copia del programa que agota 
+el derecho del titular en los
+términos establecidos en el art. 4.2 de la Directiva y el segundo párrafo del 
+art. 99.c TRLPI .
+
+Ciertamente, la sentencia de la Audiencia Provincial, al haber considerado que 
+la licencia de uso no suponía
+en ningún caso una venta, no precisaba el dato de la duración de la concesión 
+del derecho al licenciatario,
+porque no era relevante a la vista de la interpretación del precepto que se 
+realizaba. Pero el argumento de
+las recurridas de que no hay prueba de cuál sea esa duración no puede acogerse, 
+puesto que ellas, como
+licenciantes, conocen cuál es esa duración, y ni siquiera han llegado a aﬁrmar 
+en su oposición al recurso que
+la licencia hubiera sido concedida por un lapso temporal determinado.
+
+4.- Ahora bien, como se ha dicho, el segundo párrafo del art. 99.c TRLPI ha de 
+interpretarse en el sentido
+de que la puesta a disposición de una copia, en soporte material o inmaterial, 
+de un programa de ordenador
+y la celebración del correspondiente contrato de licencia de uso, examinadas en 
+su conjunto, implican la
+transferencia del derecho de propiedad de la copia del programa de ordenador de 
+que se trata y producen el
+agotamiento de los derechos del titular del programa en los términos previstos 
+en dicho precepto legal.
+
+Los términos en que está redactado tanto el art. 4.2 de la Directiva como el 
+art. 99.c , segundo párrafo, del
+TRLPI , excluyen del agotamiento de los derechos de explotación del titular del 
+programa de ordenador el
+derecho de controlar el alquiler del programa o de una copia del mismo. Y en el 
+supuesto enjuiciado, según ha
+resultado determinado, se ha producido el alquiler de las copias de los 
+programas por parte de Isastur a Bittia
+Comunicación. Tal alquiler está excluido del agotamiento de los derechos de 
+explotación de las demandantes
+sobre sus programas de ordenador y, por tanto, infringe sus derechos en tanto 
+que no había sido consentido.
+
+5.-  Tampoco  podría  considerarse  producido  el  agotamiento  de  los  
+derechos  de  explotación  de  las
+demandantes sobre los programas de ordenador de los que son titulares puesto 
+que no se ha alegado siquiera
+que se haya hecho inutilizable la copia del programa descargada en el ordenador 
+del licenciatario, Isastur, al
+poner a disposición de Bittia Comunicación una copia del programa, así como el 
+descargado en el ordenador
+de Bittia cuando esta puso la copia del programa a disposición de Bittia Media 
+e Isertia.
+
+La STJUE de 3 de julio de 2012 citada, en sus párrafos 70 y 78, exige que el 
+adquirente inicial que procede a la
+reventa de una copia material o inmaterial de un programa de ordenador respecto 
+de la que se ha agotado el
+derecho de distribución correspondiente al titular de los derechos de autor, 
+para no violar el derecho exclusivo
+a la reproducción de un programa de ordenador que corresponde al autor de éste, 
+previsto en el artículo 4,
+apartado 1, letra a), de la Directiva, debe inutilizar la copia descargada en 
+su ordenador en el momento de
+revenderla.
+
+Tampoco se ha cumplido este requisito exigido por el TJUE, por lo que no puede 
+considerarse agotado el
+derecho de las demandantes sobre la explotación económica de las copias del 
+programa de ordenador de que
+son titulares, que fueron cedidas en alquiler por Isastur a Bittia Comunicación 
+y reproducidas por esta en sus
+ordenadores, y posteriormente transmitidas por Bittia Comunicación a Bittia 
+Media e Isertia.
+
+6.- Como conclusión a lo expuesto, si bien es cierto que la interpretación 
+restrictiva de la expresión «primera
+venta» empleada en el precepto legal no es correcta porque no se ajusta a la 
+jurisprudencia del TJUE, no
+obstante, no se cumplen los requisitos necesarios para considerar que los 
+derechos de explotación económica
+de    las demandantes sobre las copias de sus programas de ordenador estaban 
+agotados respecto de las
+actividades realizadas por la demandada Bittia Comunicación en relación con 
+tales copias, por lo que la
+reproducción que realizó de tales programas y la distribución que también 
+realizó de los mismos, infringieron
+los derechos de propiedad intelectual que las demandantes tenían sobre sus 
+programas.
+
+Por lo expuesto, también este motivo del recurso debe ser desestimado.
+
+SEXTO.- Costas y depósitos
+
+1.- De acuerdo con lo previsto en el artículo 398.1 en relación con el 394.1, 
+ambos de la Ley de Enjuiciamiento
+Civil , las costas de los recursos extraordinario por infracción procesal y de 
+casación deben ser impuestas a
+la recurrente.
+
+2.- Procede acordar también la pérdida de los depósitos constituidos de 
+conformidad con la disposición
+adicional 15ª, apartado 9, de la Ley Orgánica del Poder Judicial .
+
+FALLO
+
+Por todo lo expuesto, en nombre del Rey, por la autoridad que le conﬁere la 
+Constitución, esta sala ha decidido
+
+1.º-  Desestimar  los  recursos  extraordinario  por  infracción  procesal  y  
+de  casación  interpuestos  por  Bittia
+Comunicación, S.L., contra la sentencia núm. 387/2013, de 19 de diciembre, 
+dictada por la Sección Primera
+
+
+de la Audiencia Provincial de Oviedo, en el recurso de apelación núm. 120/2013 
+. 2.º- Imponer al expresado
+recurrente  las  costas  de  los  recursos  extraordinario  por  infracción  
+procesal  y  de  casación,  así  como  la
+pérdida de los depósitos constituidos. Líbrese a la mencionada Audiencia la 
+certiﬁcación correspondiente con
+devolución de los autos y rollo de apelación remitidos.
+
+Notifíquese esta resolución a las partes e insértese en la coleccion 
+legislativa.
+Así se acuerda y ﬁrma.
+

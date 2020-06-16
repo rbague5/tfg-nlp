@@ -48,13 +48,13 @@ def _nltk_tokenizer(document):
 
 
 if __name__ == "__main__":
-    f = open("./493 pag.txt", "r", encoding="utf8")
+    f = open("./ej_2_es.txt", "r", encoding="utf8")
 
     document = f.read()
 
     splitted_text = execute_pre_process(document)
     result = clean_spaces(splitted_text)
 
-    f = open("493 pag_cleaned.txt", "w", encoding="utf8")
+    f = open("ej_2_es_cleaned.txt", "w", encoding="utf8")
     f.write(str(splitted_text))
     f.close()
