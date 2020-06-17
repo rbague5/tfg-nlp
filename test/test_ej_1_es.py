@@ -90,6 +90,7 @@ class TestEj1Es(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
+        print("\n######### RUNNING TESTS FOR EJ_1_ES #########")
         f = open("documents/ej_1_es_cleaned.txt", encoding="utf8")
         cls.corpus = f.read()
         f.close()
@@ -101,6 +102,22 @@ class TestEj1Es(unittest.TestCase):
         t2 = timeit.default_timer()
 
         print("\nModel es_core_legal_sm")
+        print(f"Time to load : {t2 - t1}")
+
+        ents = spacy_nlp(self.corpus).ents
+        results = [f"{ent.text}-{ent.start_char}:{ent.end_char}" for ent in ents if ent.label_ == 'FECHA']
+
+        cm = ConfusionMatrix(self.corpus, results, self.expected)
+        cm.print()
+        self.assertGreater(cm.F1, 0.8)
+
+    def test_es_core_legal_md(self):
+        t1 = timeit.default_timer()
+        spacy_nlp = spacy.load('models/custom_model/es_core_legal_md')
+        spacy_nlp.max_length = 2000000
+        t2 = timeit.default_timer()
+
+        print("\nModel es_core_legal_md")
         print(f"Time to load : {t2 - t1}")
 
         ents = spacy_nlp(self.corpus).ents
@@ -136,6 +153,8 @@ class TestEj1Es(unittest.TestCase):
         print(f"Time to load : {t2 - t1}")
 
         results = [f"{span.text}-{span.start_char}:{span.end_char}" for span in results]
+        # for i in results:
+        #     print(f"'{i}',")
 
         cm = ConfusionMatrix(self.corpus, results, self.expected)
         cm.print()
