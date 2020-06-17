@@ -42,8 +42,7 @@ from labeler_and_converter_of_data.ConvertSpacyTrainData import convert_data
 # other entity types that spaCy correctly recognized before. Otherwise, your
 # model might learn the new type, but "forget" what it previously knew.
 # https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting
-TRAIN_DATA = convert_data("data_not_blank.json")
-print(type(TRAIN_DATA))
+TRAIN_DATA = convert_data("../../labeler_and_converter_of_data/data_not_blank.json")
 
 @plac.annotations(
     model=("Model name. Defaults to blank 'en' model.", "option", "m", str),
@@ -52,7 +51,7 @@ print(type(TRAIN_DATA))
     n_iter=("Number of training iterations", "option", "n", int),
 )
 
-def main(model='es_core_news_sm', new_model_name="animal", output_dir="./es_core_legal_sm", n_iter=100):
+def main(model='es_core_news_md', new_model_name="animal", output_dir="./es_core_legal_md", n_iter=100):
     """Set up the pipeline and entity recognizer, and train the new entity."""
     random.seed(0)
     if model is not None:

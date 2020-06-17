@@ -42,8 +42,7 @@ from labeler_and_converter_of_data.ConvertSpacyTrainData import convert_data
 # other entity types that spaCy correctly recognized before. Otherwise, your
 # model might learn the new type, but "forget" what it previously knew.
 # https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting
-TRAIN_DATA = convert_data("data_blank.json")
-print(type(TRAIN_DATA))
+TRAIN_DATA = convert_data("../../labeler_and_converter_of_data/data_blank.json")
 
 @plac.annotations(
     model=("Model name. Defaults to blank 'es' model.", "option", "m", str),
