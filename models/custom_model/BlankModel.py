@@ -97,14 +97,20 @@ def main(model=None, new_model_name="FECHA", output_dir="./blank_model", n_iter=
         total_iterations = list()
         # batch up the examples using spaCy's minibatch
         for itn in range(n_iter):
+            total_iterations.append(itn)
             now = datetime.now()
-            current_time = now.strftime("%H:%M:%S")
-            print(f"[{current_time}] Starting iteration: {itn}/{n_iter}")
+            print(f"[{now.strftime('%H:%M:%S')}] Starting iteration " + str(itn) + "/" + str(n_iter))
+
             random.shuffle(TRAIN_DATA)
+            # Batches es tot el train data
             batches = minibatch(TRAIN_DATA, size=sizes)
+            # print(f"          Batches: {batches}")
             losses = {}
             for batch in batches:
+                # print(f"                    Actual Batch: {batch}")
                 texts, annotations = zip(*batch)
+                # print(f"texts: {texts}")
+                # print(f"annotations: {annotations}")
                 nlp.update(texts, annotations, sgd=optimizer, drop=0.20, losses=losses)
             print(f"          Losses {losses}")
             total_loses.append(losses)
