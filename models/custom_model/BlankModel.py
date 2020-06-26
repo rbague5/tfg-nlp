@@ -28,6 +28,8 @@ Last tested with: v2.1.0
 """
 from __future__ import unicode_literals, print_function
 
+import timeit
+
 import plac
 import random
 from pathlib import Path
@@ -95,6 +97,7 @@ def main(model=None, new_model_name="FECHA", output_dir="./blank_model", n_iter=
         total_loses = list()
         total_iterations = list()
         # batch up the examples using spaCy's minibatch
+        t1 = timeit.default_timer()
         for itn in range(n_iter):
             total_iterations.append(itn)
             now = datetime.now()
@@ -114,9 +117,10 @@ def main(model=None, new_model_name="FECHA", output_dir="./blank_model", n_iter=
             print(f"          Losses {losses}")
             total_loses.append(losses)
 
-            print(f"Total Iterations: {total_iterations}")
-            print(f"Total Losses: {total_loses}")
             print()
+        t2 = timeit.default_timer()
+        print(f"Total time to train: {t2 - t1}")
+
         print("[")
         for x, y in zip(total_iterations, total_loses):
             print("{'iteration':" + str(x) + "," + str(y)[1:] + ",")

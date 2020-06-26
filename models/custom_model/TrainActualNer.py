@@ -28,6 +28,7 @@ Last tested with: v2.1.0
 """
 from __future__ import unicode_literals, print_function
 
+import timeit
 from datetime import datetime
 
 import plac
@@ -99,6 +100,7 @@ def main(model='es_core_news_md', new_model_name="animal", output_dir="./es_core
         total_iterations = list()
 
         # batch up the examples using spaCy's minibatch
+        t1 = timeit.default_timer()
         for itn in range(n_iter):
             total_iterations.append(itn)
             now = datetime.now()
@@ -118,9 +120,10 @@ def main(model='es_core_news_md', new_model_name="animal", output_dir="./es_core
             print(f"          Losses {losses}")
             total_loses.append(losses)
 
-            print(f"Total Iterations: {total_iterations}")
-            print(f"Total Losses: {total_loses}")
             print()
+        t2 = timeit.default_timer()
+        print(f"Total time to train: {t2 - t1}")
+
         print("[")
         for x,y in zip(total_iterations, total_loses):
             print("{'iteration':"+str(x)+","+str(y)[1:]+",")
