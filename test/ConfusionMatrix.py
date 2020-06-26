@@ -12,8 +12,14 @@ class ConfusionMatrix:
         self.F1 = 2 * self.TP / (2 * self.TP + len(self.FP) + len(self.FN))
 
     def print(self):
+
         print("FP({}): {}".format(len(self.FP), self.FP))
         print("FN({}): {}".format(len(self.FN), self.FN))
+        print("\nEXPECTED RESULTS({})".format(len(self.expected)))
+        print("FOUND RESULTS({})".format(len(self.results)))
+        print("FP({})".format(len(self.FP)))
+        print("FN({})".format(len(self.FN)))
+        print("TP({})".format(self.TP))
         print("Precision = {}".format(self.precision))
         print("Recall = {}".format(self.recall))
         print("F1 = {}\n".format(self.F1))
