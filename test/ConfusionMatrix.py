@@ -6,7 +6,7 @@ class ConfusionMatrix:
         self.expected = expected
         self.FP = [item for item in self.results if item not in self.expected]
         self.FN = [item for item in self.expected if item not in self.results]
-        self.TP = len(self.expected)
+        self.TP = len(self.expected) - len(self.FN)
         self.precision = self.TP / (self.TP + len(self.FP))
         self.recall = self.TP / (self.TP + len(self.FN))
         self.F1 = 2 * self.TP / (2 * self.TP + len(self.FP) + len(self.FN))
